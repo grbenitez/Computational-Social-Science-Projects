@@ -1,0 +1,9 @@
+git clone "url"
+cd Computational-Social-Science-Projects
+mkdir "Project 1"
+cd "Project 1"
+touch "Project 1.txt"
+vim "Project 1.txt"
+git add . 
+git commit -m "add text file"
+git push
